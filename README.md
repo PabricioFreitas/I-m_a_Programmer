@@ -1,6 +1,6 @@
-# I am Rich
+# I'm a Programmer
 
-Projeto desenvolvido no curso #polimorfismocursoflutter com algumas alterações.
+Desafio do curso #polimorfismocursoflutter.
 
 <p align="center">
     <img widt'h="421" height="853" src="imagens/app.gif">
